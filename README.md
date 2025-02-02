@@ -1,6 +1,6 @@
 # Speech Understanding and Emotion Recognition System
 
-A comprehensive system for speech emotion recognition (SER), environmental sound classification, and music genre analysis using deep learning techniques.
+A comprehensive Analysis for speech emotion recognition (SER), environmental sound classification, and music genre analysis using deep learning techniques.
 
 ## Features
 
