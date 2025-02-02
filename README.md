@@ -4,7 +4,7 @@ A comprehensive Analysis for speech emotion recognition (SER), environmental sou
 
 ## Features
 
-- Speech Emotion Recognition (SER) with multiple windowing techniques
+- Speech Emotion Recognition (SER) with Wav2Small
 - Environmental sound classification using UrbanSound8K dataset
 - Music genre spectrogram analysis
 - Custom STFT implementation with different windowing methods
@@ -32,19 +32,6 @@ Required packages:
 - scikit-learn
 - tqdm
 
-## Project Structure
-
-```
-├── models/
-│   └── ResNetAudioClassifier.py
-├── utils/
-│   ├── windowing.py
-│   └── datasets.py
-├── experiments/
-│   └── WindowingExperiment.py
-└── analysis/
-    └── spectrogram_analysis.py
-```
 
 ## Usage
 
