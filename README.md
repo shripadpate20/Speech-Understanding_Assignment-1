@@ -23,15 +23,15 @@ pip install -r requirements.txt
 
 Required packages:
 ```python
-- torch
-- torchaudio
-- librosa
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-- tqdm
+torch
+torchaudio
+librosa
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
 ```
 
 ## Usage
