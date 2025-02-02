@@ -146,7 +146,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 5. [Librosa Documentation](https://librosa.org/doc/latest/index.html)
 6. [PyTorch Documentation](https://pytorch.org/)
 
-## Acknowledgments
 
-- Department of Mathematics, Indian Institute of Technology, Jodhpur
-- Data and Computational Sciences (DCS) program
