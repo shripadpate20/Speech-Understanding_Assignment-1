@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ```
 
 Required packages:
+```python
 - torch
 - torchaudio
 - librosa
@@ -31,7 +32,7 @@ Required packages:
 - seaborn
 - scikit-learn
 - tqdm
-
+```
 
 ## Usage
 
