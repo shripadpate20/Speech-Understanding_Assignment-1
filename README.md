@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## References
 
 1. Task2 audio link
-2. Wav2Small: Distilling Wav2Vec2 to 72K parameters
+2. [Wav2Small: Distilling Wav2Vec2 to 72K parameters](https://arxiv.org/abs/2408.13920)
 3. [Hugging Face Wav2Small](https://huggingface.co/dkounadis/wav2small)
 4. [Urban Sound Classification](https://github.com/smitkiri/urban-sound-classification)
 5. [Librosa Documentation](https://librosa.org/doc/latest/index.html)
